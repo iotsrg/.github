@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/IoTSecurity101/.github/main/iot/Main-logo-101.png" alt="alt text" title="image Title" width="350"/>
 
-`IoT Security 101​  We are IoTSecurity101, an open-source authority in IoT security Community, known for our flagship IoT-PTv1 OS, curated content, and influential online groups; now expanding our mission through in-person meetups and new knowledge-sharing initiatives.​
+`We are IoTSecurity101 team, an open-source authority in IoT security Community, known for our flagship IoT-PTv1 OS, curated content, and influential online groups; now expanding our mission through in-person meetups and new knowledge-sharing initiatives.​
 `
 
 <img src="https://raw.githubusercontent.com/V33RU/IoTSecurity101/master/iot-banner.png" alt="alt text" title="image Title" width="250"/>
