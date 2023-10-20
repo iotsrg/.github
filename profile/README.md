@@ -16,5 +16,6 @@
 
 #### Talks and Trainings 
 | # | Conferece | Training/Talks | Year |
+| ---|---|---|---|
 |1|[Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023
 |2|[c0c0n-2023](https://seasides.net/) - cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023
