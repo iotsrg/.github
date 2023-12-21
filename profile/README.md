@@ -22,3 +22,8 @@
 |3|[c0c0n-2023](https://seasides.net/) | cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023
 |4|[Bsides Ahmadabad](https://bsidesahmedabad.in/) | Ahmadabad | [THE CHIP-OFF VILLAGE](https://bsidesahmedabad.in/conference/village/chip-off-village) | 2023
 
+
+#### Upcoming 2024
+| # | Conferece | Location | Training/Talks | Year |
+| ---|---|---|---|---|
+|1|[craccon'24](https://www.crac-learning.com/craccon-schedule) | Delhi | [Hardware Security Fundamentals workshop](https://www.crac-learning.com/craccon-schedule) | 2024
