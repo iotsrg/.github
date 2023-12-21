@@ -15,7 +15,10 @@
 ------
 
 #### Events
-| # | Conferece | Training/Talks | Year |
-| ---|---|---|---|
-|1|[Seasides](https://seasides.net/) - Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023
-|2|[c0c0n-2023](https://seasides.net/) - cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023
+| # | Conferece | Location | Training/Talks | Year |
+| ---|---|---|---|---|
+|1|[Bsides Bangalore](https://seasides.net/) | Bangalore | [IoT Security Workshop](https://bsidesbangalore.in/workshops) | 2023
+|2|[Seasides](https://seasides.net/) | Goa | [Mastering IoT Security Workshop](https://seasides.net/mastering-iot-security-workshop/) | 2023
+|3|[c0c0n-2023](https://seasides.net/) | cochin | [IoT Hacking and Security Village](https://india.c0c0n.org/2023/IoT-Hacking-and-Security-Village) | 2023
+|4|[Bsides Ahmadabad](https://bsidesahmedabad.in/) | Ahmadabad | [THE CHIP-OFF VILLAGE](https://bsidesahmedabad.in/conference/village/chip-off-village) | 2023
+
