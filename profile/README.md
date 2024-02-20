@@ -1,7 +1,7 @@
 
 ### 🛡️ IoTSecurity101 Team
 
-We are an open-source authority in the IoT security community, known for our flagship IoT-PTv1 OS, curated content, and influential online groups. We're now expanding our mission through in-person meetups and new knowledge-sharing initiatives.
+We are an open intiative in the IoT security community, known for our flagship IoT-PTv1 OS, curated content, and influential online groups. We're now expanding our mission through in-person meetups and new knowledge-sharing initiatives.
 
 ![IoTSecurity101 Logo](https://raw.githubusercontent.com/IoTSecurity101/.github/main/iot/Main-logo-101.png)
 
@@ -25,10 +25,11 @@ We are an open-source authority in the IoT security community, known for our fla
 | 2 | [Seasides](https://seasides.net/) | Goa | Mastering IoT Security Workshop | 2023 |
 | 3 | [c0c0n-2023](https://seasides.net/) | Cochin | IoT Hacking and Security Village | 2023 |
 | 4 | [Bsides Ahmadabad](https://bsidesahmedabad.in/) | Ahmadabad | THE CHIP-OFF VILLAGE | 2023 |
+| 5 | [craccon'24](https://www.crac-learning.com/craccon-schedule) | Delhi | Hardware Security Fundamentals workshop | 2024 |**
 
 #### 🌟 Upcoming Events (2024)
 
 | # | Conference | Location | Highlights | Year |
 |---|------------|----------|------------|------|
-| 1 | [craccon'24](https://www.crac-learning.com/craccon-schedule) | Delhi | Hardware Security Fundamentals workshop | 2024 |
+
 
