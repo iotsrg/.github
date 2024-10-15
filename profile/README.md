@@ -1,5 +1,5 @@
 
-### 🛡️ IoTSecurity101 Team
+### 🛡️ IoT Security Research Group
 
 We are an open intiative in the IoT security community, known for our flagship IoT-PTv1 OS, curated content, and influential online groups. We're now expanding our mission through in-person meetups and new knowledge-sharing initiatives.
 
