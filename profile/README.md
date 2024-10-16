@@ -17,7 +17,7 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 
 ### 📅 Events
 
-#### Past Events (2023)
+#### Past Events
 
 | #  | Conference                                                                 | Location   | Highlights                              | Year |
 |----|----------------------------------------------------------------------------|------------|-----------------------------------------|------|
