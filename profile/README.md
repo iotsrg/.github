@@ -3,7 +3,7 @@
 
 We are an open intiative in the IoT Security Research Group, known for our flagship IoT-PTv1 OS, curated content, and influential online groups. We're now expanding our mission through in-person meetups and new knowledge-sharing initiatives.
 
-![IoTSecurity101 Logo](https://raw.githubusercontent.com/IoTSecurity101/.github/main/iot/Main-logo-101.png)
+![IoTSecurity101 Logo](iot/IoTsecurity101-final-logo-24.png)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=iotsecurity1010&color=dc143c)
 
