@@ -25,11 +25,16 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 | 2 | [Seasides](https://seasides.net/) | Goa | Mastering IoT Security Workshop | 2023 |
 | 3 | [c0c0n-2023](https://seasides.net/) | Cochin | IoT Hacking and Security Village | 2023 |
 | 4 | [Bsides Ahmadabad](https://bsidesahmedabad.in/) | Ahmadabad | THE CHIP-OFF VILLAGE | 2023 |
-| 5 | [craccon'24](https://www.crac-learning.com/craccon-schedule) | Delhi | Hardware Security Fundamentals workshop | 2024 |**
+| 5 | [craccon'24](https://www.crac-learning.com/craccon-schedule) | Delhi | Hardware Security workshop | 2024 |**
+| 6 | [Defcon-Delhi'24](https://www.crac-learning.com/craccon-schedule) | Delhi | THE CHIP-OFF VILLAGE  | 2024 |**
+| 7 | [vulncon'24](https://vulncon.in/village/microchip-makeover-the-reballing-realm) | Bangalore | microchip makeover the reballing realm  | 2024 |**
+| 8 | [bsides Dehradun'24](https://bsidesdehradun.com/village/microchip_makeover) | Dehradun | THE CHIP-OFF VILLAGE  | 2024 |**
+| 9 | [Defcon-Delhi'24](https://www.crac-learning.com/craccon-schedule) | Delhi | THE CHIP-OFF VILLAGE  | 2024 |**
+
 
 #### 🌟 Upcoming Events (2024)
 
 | # | Conference | Location | Highlights | Year |
 |---|------------|----------|------------|------|
-
+| 1 | [c0c0n'24](https://india.c0c0n.org/2024/villages#) | Gujarat(Gandhinagar) | IoHT Village  | 2024 |**
 
