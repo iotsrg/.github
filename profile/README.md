@@ -18,21 +18,17 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 ### 📅 Events
 
 #### Past Events
-
-| Conference             | Location   | Highlights                              | Year | Workshops                         | Villages                        |
-|------------------------|------------|-----------------------------------------|------|-----------------------------------|---------------------------------|
-| Bsides Kerala          | Kerala     | IoT Bug Discovery: From Vulnerability to Exploit Workshop | 2025 | IoT Bug Discovery Workshop       |                                 |
-| craccon'24             | Delhi      | Hardware Security Workshop              | 2024 | Hardware Security Workshop       |                                 |
-| Defcon-Delhi'24        | Delhi      | The Chip-Off Village                    | 2024 |                                   | The Chip-Off Village           |
-| vulncon'24             | Bangalore  | Microchip Makeover The Reballing Realm Village | 2024 |                                   | Microchip Makeover Village      |
-| bsides Dehradun'24     | Dehradun   | The Chip-Off Village                    | 2024 |                                   | The Chip-Off Village           |
-| Bsides Bangalore       | Bangalore  | IoT Security Workshop                   | 2023 | IoT Security Workshop            |                                 |
-| Seasides               | Goa        | Mastering IoT Security Workshop         | 2023 | Mastering IoT Security Workshop  |                                 |
-| c0c0n-2023             | Cochin     | IoT Hacking and Security Village        | 2023 |                                   | IoT Hacking and Security Village|
-| Bsides Ahmadabad       | Ahmadabad  | The Chip-Off Village                    | 2023 |                                   | The Chip-Off Village           |
-
-
-
+| Conference             | Location   | Highlights                              | Year | Workshop/Village                     |
+|------------------------|------------|-----------------------------------------|------|--------------------------------------|
+| Bsides Kerala          | Kerala     | IoT Bug Discovery: From Vulnerability to Exploit Workshop | 2025 | Workshop                            |
+| craccon'24             | Delhi      | Hardware Security Workshop              | 2024 | Workshop                            |
+| Defcon-Delhi'24        | Delhi      | The Chip-Off Village                    | 2024 | Village                             |
+| vulncon'24             | Bangalore  | Microchip Makeover The Reballing Realm Village | 2024 | Village                             |
+| bsides Dehradun'24     | Dehradun   | The Chip-Off Village                    | 2024 | Village                             |
+| Bsides Bangalore       | Bangalore  | IoT Security Workshop                   | 2023 | Workshop                            |
+| Seasides               | Goa        | Mastering IoT Security Workshop         | 2023 | Workshop                            |
+| c0c0n-2023             | Cochin     | IoT Hacking and Security Village        | 2023 | Village                             |
+| Bsides Ahmadabad       | Ahmadabad  | The Chip-Off Village                    | 2023 | Village                             |
 
 
 #### 🌟 Upcoming Events (2024)
