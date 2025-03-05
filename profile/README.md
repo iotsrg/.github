@@ -31,9 +31,3 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 | Bsides Ahmadabad       | Ahmadabad  | The Chip-Off Village                    | 2023 | Village                             |
 
 
-#### 🌟 Upcoming Events (2024)
-
-| # | Conference | Location | Highlights | Year |
-|---|------------|----------|------------|------|
-| 1 | [c0c0n'24](https://india.c0c0n.org/2024/villages#) | Gujarat(Gandhinagar) | IoHT Village  | 2024 |**
-
