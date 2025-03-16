@@ -20,6 +20,7 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 #### Past Events
 | Conference             | Location   | Highlights                              | Year | Workshop/Village                     |
 |------------------------|------------|-----------------------------------------|------|--------------------------------------|
+| Seasides Goa           | Goa        | Mastering IoT Exploitation: Advanced Hardware and Bluetooth Security – Workshop | 2025 | Workshop |
 | Bsides Kerala          | Kerala     | IoT Bug Discovery: From Vulnerability to Exploit Workshop | 2025 | Workshop                            |
 | craccon'24             | Delhi      | Hardware Security Workshop              | 2024 | Workshop                            |
 | Defcon-Delhi'24        | Delhi      | The Chip-Off Village                    | 2024 | Village                             |
