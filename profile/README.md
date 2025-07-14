@@ -30,6 +30,7 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 #### Past Events
 | Conference             | Location   | Highlights                              | Year | Workshop/Village                     |
 |------------------------|------------|-----------------------------------------|------|--------------------------------------|
+| Vulncon'25             | Bangalore  | Solder & Spark Badge Village            | 2025 | Village                              |
 | Seasides Goa           | Goa        | Mastering IoT Exploitation: Advanced Hardware and Bluetooth Security | 2025 | Workshop |
 | Bsides Kerala          | Kerala     | IoT Bug Discovery: From Vulnerability to Exploit  | 2025 | Workshop                            |
 | craccon'24             | Delhi      | Hardware Security               | 2024 | Workshop                            |
