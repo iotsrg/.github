@@ -17,10 +17,11 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 
 ## 📦 Tools Watch
 
-| Language | Project      | GitHub URL                                              | Description                                                                 |
-|----------|--------------|----------------------------------------------------------|-----------------------------------------------------------------------------|
-| **Bash** | **Andiscan** | [github.com/iotsrg/Andiscan](https://github.com/iotsrg/Andiscan) | Android Security Internals Inspector — Scans for bootloader lock status, root detection, SELinux, ADB, signature verification, etc. |
-| **Rust** | **Baudhound** | [github.com/iotsrg/Baudhound](https://github.com/iotsrg/Baudhound) | The Ultimate Serial Port Detective — Detects baud rates, scans UART, logs traffic. CLI-based UART toolkit for hardware hackers. |
+| Project      | GitHub URL                                              | Language | Description                                                                 |
+|--------------|----------------------------------------------------------|----------|-----------------------------------------------------------------------------|
+| **Andiscan** | [github.com/iotsrg/Andiscan](https://github.com/iotsrg/Andiscan) | Bash     | Android Security Internals Inspector — Scans for bootloader lock status, root detection, SELinux, ADB, signature verification, etc. |
+| **Baudhound**| [github.com/iotsrg/Baudhound](https://github.com/iotsrg/Baudhound) | Rust     | The Ultimate Serial Port Detective — Detects baud rates, scans UART, logs traffic. CLI-based UART toolkit for hardware hackers. |
+
 
 ---
 
