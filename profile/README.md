@@ -19,8 +19,8 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 
 | Project      | GitHub URL                                              | Language | Description                                                                 |
 |--------------|----------------------------------------------------------|----------|-----------------------------------------------------------------------------|
-| **Andiscan** | [github.com/iotsrg/Andiscan](https://github.com/iotsrg/Andiscan) | Bash     | Android Security Internals Inspector - Scans for bootloader lock status, root detection, SELinux, ADB, signature verification, etc. |
-| **Baudhound**| [github.com/iotsrg/Baudhound](https://github.com/iotsrg/Baudhound) | Rust     | The Ultimate Serial Port Detective - Detects baud rates, scans UART, logs traffic. CLI-based UART toolkit for hardware hackers. |
+| **Andiscan** | [github.com/iotsrg/Andi](https://github.com/iotsrg/andi) | Bash     | Android Security Internals Inspector - Scans for bootloader lock status, root detection, SELinux, ADB, signature verification, etc. |
+| **Baudhound**| [github.com/iotsrg/Baudowl](https://github.com/iotsrg/baudowl) | Rust     | The Ultimate Serial Port Detective - Detects baud rates, scans UART, logs traffic. CLI-based UART toolkit for hardware hackers. |
 
 
 ---
