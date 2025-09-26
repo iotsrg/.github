@@ -26,10 +26,11 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 ---
 ## Upcoming Events  
 
-| Conference             | Location   | Highlights                          | Year | Workshop/Village |
-|------------------------|------------|-------------------------------------|------|------------------|
-| AppSec Days Bangalore  | Bangalore  | Solder & Spark Badge Village  | 2025 | Village          |
-| craccon Delhi          | Delhi      | Hardware CTF Village | 2025 | Village         |
+| Conference             | Location   | Dates                 | Highlights                          | Year | Workshop/Village |
+|------------------------|------------|-----------------------|-------------------------------------|------|------------------|
+| AppSec Days Bangalore  | Bangalore  | October 18, 2025      | Solder & Spark Badge Village        | 2025 | Village          |
+| craccon Delhi          | Delhi      | October 4–5, 2025     | Hardware Security                   | 2025 | Workshop         |
+
 
 
 ### 📅 Events
