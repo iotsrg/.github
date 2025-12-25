@@ -28,8 +28,7 @@ We are an open intiative in the IoT Security Research Group, known for our flags
 
 | Conference             | Location   | Dates                 | Highlights                          | Year | Workshop/Village |
 |------------------------|------------|-----------------------|-------------------------------------|------|------------------|
-| AppSec Days Bangalore  | Bangalore  | October 18, 2025      | Solder & Spark Badge Village        | 2025 | Village          |
-| craccon Delhi          | Delhi      | October 4–5, 2025     | Hardware Security                   | 2025 | Workshop         |
+| IdentityShieldSummit  | Pune  | Jan 16,17 - 2026      | Bluetooth Security Workshop        | 2026 | Workshop          |
 
 
 
